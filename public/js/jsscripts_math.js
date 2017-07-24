@@ -3,3 +3,4 @@ function mathAlert() {
 	var numberTwo = document.getElementById('num2').value;
 	var operator = document.getElementById('action').value;
 }
+
